@@ -1,1 +1,1 @@
-# Stable Diffusion 
+# STABLE DIFFUSION
