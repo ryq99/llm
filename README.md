@@ -29,7 +29,7 @@
 
 <br>
 
-### Parameter- efficient fine tuning (PEFT)
+### Parameter-efficient Fine-tuning (PEFT)
 [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf)
 [On the Effectiveness of Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2211.15583.pdf)
 #### LoRA  
@@ -37,6 +37,11 @@
 [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)  
 #### Prompt Tuning  
 [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)  
+
+<br>
+
+### RLHF Fine-tuning
+[Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://huggingface.co/blog/trl-peft)  
 
 <br>
 
